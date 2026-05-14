@@ -153,10 +153,10 @@ npm run dev
 
 ## 👨‍💻 Author
 
-**Chandan B**
+**Rahul R.D**
 
-* LinkedIn: https://www.linkedin.com/in/chandan-b-2950a626a
-* GitHub: https://github.com/Chandu-0604
+* LinkedIn: https://www.linkedin.com/in/rahul-r-d
+* GitHub: https://github.com/RahulRD2004
 
 ---
 
